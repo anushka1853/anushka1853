@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anushka1853
+- 👋 Hi, I’m Anushka Gour.
 - 👀 I’m a CS undergrad by the day and bookworm by night, I'm interested in learning new technologies that intrigue me.
 - 🌱 I’m currently learning C++ and I already know Python, SQL and, Git and GitHub.
 - 📫 How to reach me : 
