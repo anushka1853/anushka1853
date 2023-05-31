@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka Gour.
 - 👀 I’m a CS undergrad by the day and bookworm by night, I'm interested in learning new technologies that intrigue me.
-- 🌱 I’m currently learning C++ and I already know Python, SQL and, Git and GitHub.
+- 🌱 I’m currently learning C++  and I already know Python, SQL and, Git and GitHub and bits of DevOps.
 - 📫 How to reach me : 
 - twitter: @anushhhhka13 and linkedin: https://www.linkedin.com/in/anushka-gour-8723ab24a/
 <!---
